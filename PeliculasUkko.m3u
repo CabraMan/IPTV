@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=DFP/2.0
 #EXTINF:-1,6 en la sombra (2019)
+#EXTVLCOPT:http-user-agent=DFP/2.0
 http://peliculas.ukko.fun/movies/8128.mp4
 #EXTVLCOPT:http-user-agent=DFP/2.0
 #EXTINF:-1,12 trampas (2009)
