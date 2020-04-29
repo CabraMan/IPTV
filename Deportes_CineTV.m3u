@@ -1,0 +1,223 @@
+#EXTM3U
+#EXTINF:-1,MOVISTAR LIGA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/15
+#EXTINF:-1,MOVISTAR LIGA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/272
+#EXTINF:-1,MOVISTAR LIGA SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/273
+#EXTINF:-1,MOVISTAR LIGA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/62
+#EXTINF:-1,MOVISTAR LIGA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/270
+#EXTINF:-1,MOVISTAR LIGA FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/14
+#EXTINF:-1,MOVISTAR LIGA 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/274
+#EXTINF:-1,MOVISTAR LIGA 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/257
+#EXTINF:-1,MOVISTAR LIGA 123 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/275
+#EXTINF:-1,MOVISTAR LA LIGA TV1
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/10
+#EXTINF:-1,MOVISTAR LA LIGA TV2
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/11
+#EXTINF:-1,MOVISTAR LA LIGA TV3
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/12
+#EXTINF:-1,MOVISTAR LA LIGA TV4
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/13
+#EXTINF:-1,MOVISTAR  PARTIDAZO HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/252
+#EXTINF:-1,LALIGATV BAR HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/276
+#EXTINF:-1,LALIGATV BAR SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/277
+#EXTINF:-1,LALIGATV BAR FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/61
+#EXTINF:-1,LALIGATV BAR
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/64
+#EXTINF:-1,LIGATV FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/66
+#EXTINF:-1,MOVISTAR LIGA COMPEONES UHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/160
+#EXTINF:-1,MOVISTAR LIGA COMPEONES HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/278
+#EXTINF:-1,MOVISTAR LIGA COMPEONES SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/279
+#EXTINF:-1,MOVISTAR Liga Campeones
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/65
+#EXTINF:-1,MOVISTAR liga Campeones
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/97
+#EXTINF:-1,MOVISTAR liga Campeones HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/98
+#EXTINF:-1,Bein Max 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/16
+#EXTINF:-1,Bein Max 2 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/17
+#EXTINF:-1,Bein Max 3 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/18
+#EXTINF:-1,Bein Sport N HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/19
+#EXTINF:-1,MOVISTAR VAMOS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/202
+#EXTINF:-1,MOVISTAR VAMOS
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/203
+#EXTINF:-1,MOVISTAR  VAMOS FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/73
+#EXTINF:-1,MOVISTAR  VAMOS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/263
+#EXTINF:-1,MOVISTAR  VAMOS
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/264
+#EXTINF:-1,MOVISTAR+ DEPORTES HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/261
+#EXTINF:-1,MOVISTAR  DEPORTES
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/262
+#EXTINF:-1,MOVISTAR DEPORTES 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/87
+#EXTINF:-1,MOVISTAR DEPORTES 2 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/88
+#EXTINF:-1,MOVISTAR  FORMULA1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/259
+#EXTINF:-1,MOVISTAR  FORMULA1
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/260
+#EXTINF:-1,Movistar  FORMULA 1 FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/70
+#EXTINF:-1,Movistar FORMULA 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/93
+#EXTINF:-1,Movistar FORMULA 1 UHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/283
+#EXTINF:-1,Movistar GOLF FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/95
+#EXTINF:-1,Movistar GOLF HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/96
+#EXTINF:-1,MOVISTAR  GOLF HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/255
+#EXTINF:-1,MOVISTAR  GOLF
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/256
+#EXTINF:-1,MOVISTAR GOLF 
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/68
+#EXTINF:-1,MOVISTAR MOTOGP 
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/142
+#EXTINF:-1,MOVISTAR  MOTOGP HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/253
+#EXTINF:-1,MOVISTAR  MOTOGP
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/254
+#EXTINF:-1,MOVISTAR FUTBOL 
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/94
+#EXTINF:-1,GOL 
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/266
+#EXTINF:-1,GOL 
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/298
+#EXTINF:-1,GOL
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/245
+#EXTINF:-1,GOL
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/55
+#EXTINF:-1,EUROSPORT 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/249
+#EXTINF:-1,EUROSPORT 1 SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/250
+#EXTINF:-1,EUROSPORT 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/48
+#EXTINF:-1,EUROSPORT 1 FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/49
+#EXTINF:-1,EUROSPORT 2 SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/251
+#EXTINF:-1,EUROSPORT 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/50
+#EXTINF:-1,TELEDEPORTE 
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/127
+#EXTINF:-1,TELEDEPORTE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/246
+#EXTINF:-1,TELEDEPORTE
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/247
+#EXTINF:-1,TELEDEPORTE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/306
+#EXTINF:-1,REAL MADRID TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/111
+#EXTINF:-1,REAL MADRID TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/268
+#EXTINF:-1,BARÇA TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/269
+#EXTINF:-1,BARÇA TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/137
+#EXTINF:-1,CAZA Y PESCA
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/185
+#EXTINF:-1,CAZA Y PESCA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/186
+#EXTINF:-1,MOVISTAR TOROS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/101
+#EXTINF:-1,MOVISTAR TOROS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+http://iptools.ddns.net:2082/cinetv/cinetv9945/271
