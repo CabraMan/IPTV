@@ -1,0 +1,198 @@
+{
+    "name" : "Cálico Electrónico",
+    "author" : "SomosLegion",
+    "image" : "https://www.elchecibernetico.com/wp-content/uploads/2011/05/calico.png",
+    "url" : "https://raw.githubusercontent.com/CabraMan/Logos/IPTV/master/Calico.w3u",
+    "groups" : [
+        {
+            "name" : "1ª Temporada",
+            "image" : "http://logos-vector.com/images/logo/xxl/1/1/9/119178/Calico_Electronico_fbaff_450x450.png",
+            "stations" : [
+                {
+                    "name" : "1x01 El Enemigo Digital",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_1_01.jpg",
+                    "url" : "https://youtu.be/EokvBHK27VY"
+                },
+                {
+                    "name" : "1x02 Los ri-Txars Invasores",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_1_02.jpg",
+                    "url" : "https://youtu.be/_qyiskyDBCk"
+                },
+                {
+                    "name" : "1x03 El Lobombre",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_1_03.jpg",
+                    "url" : "https://youtu.be/jfR32Zx18F0"
+                },
+                {
+                    "name" : "1x04 Los Niños Mutantes de Sanindefonso",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_1_04.jpg",
+                    "url" : "https://youtu.be/1e_BF0K4k7A"
+                },
+                {
+                    "name" : "1x05 Historia de Amor",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_1_05.jpg",
+                    "url" : "https://youtu.be/NbHEIYjXTV4"
+                },
+                {
+                    "name" : "1x06 Corretòn",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_1_06.jpg",
+                    "url" : "https://youtu.be/MTPeuP6uNVM"
+                }
+            ]
+        },
+        {
+            "name" : "2ª Temporada",
+            "image" : "http://logos-vector.com/images/logo/xxl/1/1/9/119178/Calico_Electronico_fbaff_450x450.png",
+            "stations" : [
+                {
+                    "name" : "2x01 El Fín de Cálico",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_2_01.jpg",
+                    "url" : "https://youtu.be/LN5LF9pLMTA"
+                },
+                {
+                    "name" : "2x02 El Fín de Cálico 2ª PARTE",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_2_02.jpg",
+                    "url" : "https://youtu.be/sMLyR8dE9RI"
+                },
+                {
+                    "name" : "2x03 El día que conocí un SUPERHÉROE",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_2_03.jpg",
+                    "url" : "https://youtu.be/RPP0OVUTId0"
+                },
+                {
+                    "name" : "2x04 Cómo ser Cálico Electrónico",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_2_04.jpg",
+                    "url" : "https://youtu.be/9mfYk0rBWNI"
+                },
+                {
+                    "name" : "2x05 Porque YO lo valgo",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_2_05.jpg",
+                    "url" : "https://youtu.be/Pa8EZLbYYuM"
+                },
+                {
+                    "name" : "2x06 Cálico",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_2_06.jpg",
+                    "url" : "https://youtu.be/wlSeamzDkFs"
+                }
+            ]
+        },
+        {
+            "name" : "3ª Temporada",
+            "image" : "http://logos-vector.com/images/logo/xxl/1/1/9/119178/Calico_Electronico_fbaff_450x450.png",
+            "stations" : [
+                {
+                    "name" : "3x01 Se ha Escrito una Escabechina",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_3_01.jpg",
+                    "url" : "https://youtu.be/iJaluqo-6y8"
+                },
+                {
+                    "name" : "3x02 Se ha Escrito una Escabechina-2",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_3_02.jpg",
+                    "url" : "https://youtu.be/KQWlOh1FCp4"
+                },
+                {
+                    "name" : "3x03 Los Pelusos Carambaneros",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_3_03.jpg",
+                    "url" : "https://youtu.be/7pz3RuPiwTc"
+                },
+                {
+                    "name" : "3x04 Mira Quién Lucha",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_3_04.jpg",
+                    "url" : "https://youtu.be/UUqzszdqiWM"
+                },
+                {
+                    "name" : "3x05 El Ventri Loco",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_3_05.jpg",
+                    "url" : "https://youtu.be/PJs5qnJFhEY"
+                },
+                {
+                    "name" : "3x06 La Generación de la Bola",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_3_06.jpg",
+                    "url" : "https://youtu.be/5CdUD17mZ0g"
+                }
+            ]
+        },
+        {
+            "name" : "4ª Temporada",
+            "image" : "http://logos-vector.com/images/logo/xxl/1/1/9/119178/Calico_Electronico_fbaff_450x450.png",
+            "stations" : [
+                {
+                    "name" : "4x01 Estela Encobrada",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_4_01.jpg",
+                    "url" : "https://youtu.be/nYpbs131Go8"
+                },
+                {
+                    "name" : "4x02 Cuidado con el Danger",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_4_02.jpg",
+                    "url" : "https://youtu.be/CM5krsRbQ80"
+                },
+                {
+                    "name" : "4x03 ¿Quién teme al Lobombre Feroz",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_4_03.jpg",
+                    "url" : "https://youtu.be/EKQLOwDe8sg"
+                },
+                {
+                    "name" : "4x04 Teenage Mutant Brother Agents 2",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_4_04.jpg",
+                    "url" : "https://youtu.be/HC-UBt3aUJ4"
+                },
+                {
+                    "name" : "4x05 Atrápame si puedo",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_4_05.jpg",
+                    "url" : "https://youtu.be/9sTwk9SkTw0"
+                },
+                {
+                    "name" : "4x06 Atrápame si puedo 2",
+                    "image" : "https://www.calicoelectronico.com/Content/Imagenes/ce_4_06.jpg",
+                    "url" : "https://youtu.be/QuapSQ5K6X4"
+                }
+            ]
+        },
+        {
+            "name" : "5ª Temporada",
+            "image" : "http://logos-vector.com/images/logo/xxl/1/1/9/119178/Calico_Electronico_fbaff_450x450.png",
+            "stations" : [
+                {
+                    "name" : "5x01 La noche de los abrazos gratis",
+                    "image" : "https://www.calicoelectronico.com/Content/Capitulos/t5imagen1_abc.jpg",
+                    "url" : "https://youtu.be/cLFdbJf7o84"
+                },
+                {
+                    "name" : "5x02 Cálico Electrónico contra la madre del Topo",
+                    "image" : "https://www.calicoelectronico.com/Content/Capitulos/t5imagen2_abc.jpg",
+                    "url" : "https://youtu.be/KvawNnVk5XM"
+                },
+                {
+                    "name" : "5x03 De daddyChulos",
+                    "image" : "https://www.calicoelectronico.com/Content/Capitulos/t5imagen3_abc.jpg",
+                    "url" : "https://youtu.be/46MX-rhcvMs"
+                },
+                {
+                    "name" : "5x04 El Conde Mor y el Chola",
+                    "image" : "https://www.calicoelectronico.com/Content/Capitulos/t5imagen4_abc.jpg",
+                    "url" : "https://youtu.be/JujG3WGSlPs"
+                },
+                {
+                    "name" : "5x05 Las increibles Tortugas Pijas",
+                    "image" : "https://www.calicoelectronico.com/Content/Capitulos/t5imagen5_abc.jpg",
+                    "url" : "https://youtu.be/xuXD0tQoqjU"
+                },
+                {
+                    "name" : "5x06 El último capítulo de Cálico Electrónico",
+                    "image" : "https://www.calicoelectronico.com/Content/Capitulos/t5imagen6_abc.jpg",
+                    "url" : "https://youtu.be/Ca2SuSeW6Q8"
+                }
+            ]
+        }                                              
+    ]
+}
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
