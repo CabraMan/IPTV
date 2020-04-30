@@ -1,8 +1,8 @@
 {
-    "name": "TDT Movistar X",
+    "name": "TDT y Movistar",
     "author": "SomosLegion",
     "info": "A disfrutar", 
-    "url": "https://raw.githubusercontent.com/CabraMan/IPTV/master/TDT_Movistar_X.w3u",
+    "url": "https://raw.githubusercontent.com/CabraMan/Logos/IPTV/master/TDT_Movistar_X.w3u",
     "image": "https://imagizer.imageshack.com/img923/2662/dX9dFn.png",
     "stations": [
         {
@@ -11,455 +11,455 @@
         },
         {
             "name": "LA 1",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/tvela1hd.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/tvela1hd.png",
             "url": "https://vergol.com/aplicacion/app21/nacionales/la1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "LA 2",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/tvela2hd.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/tvela2hd.png",
             "url": "https://vergol.com/aplicacion/app21/nacionales/la2.php",
             "userAgent": "mierda",
             "embed": "true"
         },            
         {
             "name": "ANTENA 3",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/antena3hd.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/antena3hd.png",
             "url": "https://vergol.com/aplicacion/app21/nacionales/antena31.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "CUATRO",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/cuatro.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/cuatro.png",
             "url": "https://vergol.com/aplicacion/app21/nacionales/cuatro1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "TELECINCO",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/telecincohd.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/telecincohd.png",
             "url": "https://vergol.com/aplicacion/app21/nacionales/telecinco1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "LA SEXTA",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/lasextahd.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/lasextahd.png",
             "url": "https://vergol.com/aplicacion/app21/nacionales/lasexta1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "MEGA",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/mega.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/mega.png",
             "url": "https://vergol.com/aplicacion/app21/nacionales/mega1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "NEOX",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/neox.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/neox.png",
             "url": "https://vergol.com/aplicacion/app21/nacionales/neox1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "FDF",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/fdf.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/fdf.png",
             "url": "https://vergol.com/aplicacion/app21/nacionales/fdf1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "BE MAD",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/bemad.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/bemad.png",
             "url": "https://vergol.com/aplicacion/app21/nacionales/bemad1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "PARAMOUNT",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/paramountchannel.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/paramountchannel.png",
             "url": "https://vergol.com/aplicacion/app21/nacionales/paramountchannel1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "DMAX",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/dmax.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/dmax.png",
             "url": "https://vergol.com/aplicacion/app21/nacionales/dmax1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "DIVINTY",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/divinity.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/divinity.png",
             "url": "https://vergol.com/aplicacion/app21/nacionales/divinity1.php",
             "userAgent": "mierda",
                 "embed": "true"
         },
         {
             "name": "ENERGY",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/energy.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/energy.png",
             "url": "https://vergol.com/aplicacion/app21/nacionales/energy1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "NOVA",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/nova.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/nova.png",
             "url": "https://vergol.com/aplicacion/app21/nacionales/nova1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "#0",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/cero.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/cero.png",
             "url": "https://vergol.com/aplicacion/app21/cine-series/cero1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "M ESTRENOS",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/estrenos.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/estrenos.png",
             "url": "https://vergol.com/aplicacion/app21/cine-series/estrenos1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "M ACCION",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/accion.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/accion.png",
             "url": "https://vergol.com/aplicacion/app21/cine-series/accion1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "M COMEDIA",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/comedia.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/comedia.png",
             "url": "https://vergol.com/aplicacion/app21/cine-series/comedia1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "M DRAMA",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/drama.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/drama.png",
             "url": "https://vergol.com/aplicacion/app21/cine-series/drama1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "M DISNEY",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/disney.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/disney.png",
             "url": "https://vergol.com/aplicacion/app21/cine-series/disney1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "M SERIES",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/series.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/series.png",
             "url": "https://vergol.com/aplicacion/app21/cine-series/series1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {   
             "name": "M SERIESMANIA",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/seriesmania.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/seriesmania.png",
             "url": "https://vergol.com/aplicacion/app21/cine-series/seriesmania1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "FOX",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/foxhd.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/foxhd.png",
             "url": "https://vergol.com/aplicacion/app21/cine-series/fox1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "FOX LIFE",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/foxlifehd.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/foxlifehd.png",
             "url": "https://vergol.com/aplicacion/app21/cine-series/foxlife1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "AXN",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/axnhd.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/axnhd.png",
             "url": "https://vergol.com/aplicacion/app21/cine-series/axn1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "TNT",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/tnthd.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/tnthd.png",
             "url": "https://vergol.com/aplicacion/app21/cine-series/tnt1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "SYFY",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/syfyhd.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/syfyhd.png",
             "url": "https://vergol.com/aplicacion/app21/cine-series/syfy1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "AMC",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/amchd.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/amchd.png",
             "url": "https://vergol.com/aplicacion/app21/cine-series/amc1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "TCM",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/tcmhd.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/tcmhd.png",
             "url": "https://vergol.com/aplicacion/app21/cine-series/tcm1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "CALLE 13",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/calle13hd.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/calle13hd.png",
             "url": "https://vergol.com/aplicacion/app21/cine-series/calle131.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "HOLLYWOOD",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/hollywoodhd.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/hollywoodhd.png",
             "url": "https://vergol.com/aplicacion/app21/cine-series/hollywood1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "MTV",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/mtv.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/mtv.png",
             "url": "https://vergol.com/aplicacion/app21/cine-series/mtv1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "DARK",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/dark.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/dark.png",
             "url": "https://vergol.com/aplicacion/app21/cine-series/dark1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "NAT GEOGRAPHIC",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/natgeo.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/natgeo.png",
             "url": "https://vergol.com/aplicacion/app21/documentales/nationalgeo1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "NAT GEO WILD",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/natgeow.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/natgeow.png",
             "url": "https://vergol.com/aplicacion/app21/documentales/nationalwild1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "HISTORIA",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/historia.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/historia.png",
             "url": "https://vergol.com/aplicacion/app21/documentales/historia1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "CANAL COCINA",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/canalcocina.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/canalcocina.png",
             "url": "https://vergol.com/aplicacion/app21/documentales/cocina.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "C&I",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/crimen.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/crimen.png",
             "url": "https://vergol.com/aplicacion/app21/documentales/ci1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "DISCOVERY",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/discoveryhd.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/discoveryhd.png",
             "url": "https://vergol.com/aplicacion/app21/documentales/discovery1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "BLAZE",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/blaze.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/blaze.png",
             "url": "https://vergol.com/aplicacion/app21/documentales/blaze1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "ODISEA",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/canalodisea.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/canalodisea.png",
             "url": "https://vergol.com/aplicacion/app21/documentales/odisea1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "TOROS",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/torostv.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/torostv.png",
             "url": "https://vergol.com/aplicacion/app21/deportes/toros1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "M LIGA",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/laliga.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/laliga.png",
             "url": "https://vergol.com/aplicacion/app21/deportes/mlaligaacos.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "M LIGA 1",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/laliga1.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/laliga1.png",
             "url": "https://vergol.com/aplicacion/app21/deportes/laliga1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "M LIGA 2",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/laliga2.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/laliga2.png",
             "url": "https://vergol.com/aplicacion/app21/deportes/laliga2.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "M LIGA 3",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/laliga3.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/laliga3.png",
             "url": "https://vergol.com/aplicacion/app21/deportes/laliga3.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "LA LigaTV",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/laligatv.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/laligatv.png",
             "url": "https://vergol.com/aplicacion/app21/deportes/laligatveo.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "M LIGA CAMPEONES",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/campeones.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/campeones.png",
             "url": "https://vergol.com/aplicacion/app21/deportes/campeoneso.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "M LIGA CAMPEONES 1",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/campeones1.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/campeones1.png",
             "url": "https://vergol.com/aplicacion/app21/deportes/laliga1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "M FORMULA 1",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/formula1.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/formula1.png",
             "url": "https://vergol.com/aplicacion/app21/deportes/formula11.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "M MOTOGP",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/motogp.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/motogp.png",
             "url": "https://vergol.com/aplicacion/app21/deportes/motogp1eo.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "M GOLF",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/golf.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/golf.png",
             "url": "https://vergol.com/aplicacion/app21/deportes/golf1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "DEPORTES",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/deportes.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/deportes.png",
             "url": "https://vergol.com/aplicacion/app21/deportes/mdeportes1t.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "#VAMOS",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/vamos.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/vamos.png",
             "url": "https://vergol.com/aplicacion/app21/deportes/vamos1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "GOL",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/gol.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/gol.png",
             "url": "https://vergol.com/aplicacion/app21/deportes/goltv1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "PREMIER",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/premier.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/premier.png",
             "url": "https://vergol.com/aplicacion/app21/deportes/premier14.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "EUROSPORT",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/eurosport1.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/eurosport1.png",
             "url": "https://vergol.com/aplicacion/app21/deportes/eurosport1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "EUROSPORT 2",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/eurosport2.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/eurosport2.png",
             "url": "https://vergol.com/aplicacion/app21/deportes/eurosport2.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "TELEDEPORTE",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/teledeporte.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/teledeporte.png",
             "url": "https://vergol.com/aplicacion/app21/deportes/teledeporte.php",
             "userAgent": "mierda",
             "embed": "true"
         }, 
         {
             "name": "VENUS",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/venus.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/venus.png",
             "url": "https://vergol.com/aplicacion/app21/adultos/venus12.php",
             "userAgent": "mierda",
             "embed": "true"
         }, 
         {
             "name": "PLAYBOY",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/playboytv.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/playboytv.png",
             "url": "https://vergol.com/aplicacion/app21/adultos/playboy12.php",
             "userAgent": "mierda",
             "embed": "true"
         }, 
         {
             "name": "HUSTLER",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/hustlertv.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/hustlertv.png",
             "url": "https://vergol.com/aplicacion/app21/adultos/hustler2.php",
             "userAgent": "mierda",
             "embed": "true"
         }, 
         {
             "name": "REDLIGHT",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/redlighthd.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/redlighthd.png",
             "url": "https://vergol.com/aplicacion/app21/adultos/redlight3.php",
             "userAgent": "mierda",
             "embed": "true"
         }, 
         {
             "name": "HOT",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/Movistar/master/hot.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/hot.png",
             "url": "https://vergol.com/aplicacion/app21/adultos/hot12.php",
             "userAgent": "mierda",
             "embed": "true"
