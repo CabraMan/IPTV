@@ -403,21 +403,21 @@
         },
         {
             "name": "PREMIER",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/premier.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/premiersport.png",
             "url": "https://vergol.com/aplicacion/app21/deportes/premier14.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "EUROSPORT",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/eurosport1.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/eurosport1hd.png",
             "url": "https://vergol.com/aplicacion/app21/deportes/eurosport1.php",
             "userAgent": "mierda",
             "embed": "true"
         },
         {
             "name": "EUROSPORT 2",
-            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/eurosport2.png",
+            "image":"https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar/eurosport2hd.png",
             "url": "https://vergol.com/aplicacion/app21/deportes/eurosport2.php",
             "userAgent": "mierda",
             "embed": "true"
