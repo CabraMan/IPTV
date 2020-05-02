@@ -1,0 +1,824 @@
+{
+    "name": "Telefina para Todos",
+    "author": "SomosLegion",
+    "url": "https://raw.githubusercontent.com/CabraMan/IPTV/master/Telefina.w3u",
+    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/icohome",
+    "groups": [
+        {
+            "name": "M Taquillas",
+            "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s11027469_ico_g",
+            "stations": [
+                {
+                    "name": "Taquilla 2",
+                    "url": "http://37.187.128.169:8000/live/iOS/toso/58.ts",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10711197_ico_g",
+                    "userAgent": "ExoPlayerLib/2.10.6"
+                },
+                {
+                    "name": "Taquilla 3",
+                    "url": "http://37.187.128.169:8000/live/iOS/toso/59.ts",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10711222_ico_g",
+                    "userAgent": "ExoPlayerLib/2.10.6"
+                },
+                {
+                    "name": "Taquilla 4",
+                    "url": "http://37.187.128.169:8000/live/iOS/toso/60.ts",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10711243_ico_g",
+                    "userAgent": "ExoPlayerLib/2.10.6"
+                },
+                {
+                    "name": "Taquilla 5",
+                    "url": "http://37.187.128.169:8000/live/iOS/toso/61.ts",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10711261_ico_g",
+                    "userAgent": "ExoPlayerLib/2.10.6"
+                },
+                {
+                    "name": "Taquilla 6",
+                    "url": "http://37.187.128.169:8000/live/iOS/toso/62.ts",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10711286_ico_g",
+                    "userAgent": "ExoPlayerLib/2.10.6"
+                }
+            ]
+        },
+        {
+            "name": "Infantiles",
+            "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10625037_ico_g",
+            "stations": [
+                {
+                    "name": "Nick JR",
+                    "url": "http://95.216.103.10/play/nick_jr/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10625114_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Nickelodeon",
+                    "url": "http://95.216.103.10/play/nickelodeon/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10625151_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Panda",
+                    "url": "http://95.216.103.10/play/canal_panda/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10625193_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Baby TV",
+                    "url": "http://95.216.103.10/play/baby_tv/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10667672_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Boing HD",
+                    "url": "https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8?mx5.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10294736_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Disney +",
+                    "url": "http://185.246.211.77:25461/live/9595991ZXi72215/929527122251712/26214.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10876788_ico_g",
+                    "userAgent": "exoplayer_video"
+                },
+                {
+                    "name": "Clan HD",
+                    "url": "https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10300723_ico_g",
+                    "userAgent": ""
+                }
+            ]
+        },
+        {
+            "name": "Series",
+            "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10948880_ico_g",
+            "stations": [
+                {
+                    "name": "M. SeriesMania",
+                    "url": "http://95.216.103.10/play/movistar_seriesmania/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10601575_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "M. Series ",
+                    "url": "http://95.216.103.10/play/movistar_series/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10601655_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Orange Series",
+                    "url": "http://qtvplay.xyz:8080/lvision/re4PWraRdc/8424",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10948893_ico_g",
+                    "userAgent": "exoplayer_video"
+                },
+                {
+                    "name": "Atresseries HD",
+                    "url": "https://livestartover-i.akamaized.net/geoa3series/master.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10398354_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Comedy central",
+                    "url": "http://95.216.103.10/play/comedy_central/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10629829_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "FDF HD",
+                    "url": "https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8?mx5.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10294681_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Nova HD",
+                    "url": "https://livestartover-i.akamaized.net/geonova/master.m3u8?mx5.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10294686_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Neox HD",
+                    "url": "https://livestartover.atresmedia.com/geoneox/bitrate_1.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10302084_ico_g",
+                    "userAgent": ""
+                }
+            ]
+        },
+        {
+            "name": "Deportes",
+            "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10696165_ico_g",
+            "stations": [
+                {
+                    "name": "M. La Liga",
+                    "url": "http://tv.proyectox.com:25461/live/2019jessica/QFKs3qXi53/21971.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10602071_ico_g",
+                    "userAgent": "movistar.plus/9.8 (Linux;Android 9) ExoPlayerLib/2.8.4"
+                },
+                {
+                    "name": "M. Liga Campeones",
+                    "url": "http://95.216.103.10/play/movistar_liga_de_campeones/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10602115_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "M. LaLigaTvBar",
+                    "url": "http://37.187.128.169:8000/live/iOS/toso/15.ts",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10602174_ico_g",
+                    "userAgent": "ExoPlayer2/21 (Linux;Android 5.1.1) ExoPlayerLib/2.10.6"
+                },
+                {
+                    "name": "M. Deportes",
+                    "url": "http://coronaviruscontagiosilotocas.dharmaweb.ml/dharma/movistar_deportes/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10602199_ico_g",
+                    "userAgent": "LuPlayer"
+                },
+                {
+                    "name": "M. Fórmula 1",
+                    "url": "http://95.216.103.10/play/movistar_formula_1/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10602224_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "M. Golf",
+                    "url": "http://95.216.103.10/play/movistar_golf/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10602242_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Eurosport 2",
+                    "url": "http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10696758_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Gol TV",
+                    "url": "http://51.178.65.221:25465/live/espala/yEwACTX6PQ/151.ts",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10734058_ico_g",
+                    "userAgent": "exoplayer_video"
+                },
+                {
+                    "name": "M. #vamos",
+                    "url": "http://95.216.103.10/play/vamos/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10601891_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Win Sports +",
+                    "url": "http://heinentv.ddns.net:25461/113/113/27272",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10776125_ico_g",
+                    "userAgent": "tv.fullonline/2.5 (Linux;Android 9) ExoPlayerLib/2.8.4"
+                },
+                {
+                    "name": "Fox sport",
+                    "url": "http://38.18.238.99:2095/502FoxSport1/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10780598_ico_g",
+                    "userAgent": "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT"
+                },
+                {
+                    "name": "Fox Sport 2",
+                    "url": "http://38.18.238.99:2095/503FoxSport2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10780693_ico_g",
+                    "userAgent": "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT"
+                }
+            ]
+        },
+        {
+            "name": "Administración",
+            "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s11040848_ico_g",
+            "stations": [
+                {
+                    "name": "Pruebas ",
+                    "url": "http://77.68.95.194:25461",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s11153308_ico_g",
+                    "userAgent": "Lavf/56.15.104"
+                },
+                {
+                    "name": "Ssss",
+                    "url": "http://streamxcode.ddns.net:25461/load/desiboyz150/4960.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s11170518_ico_g",
+                    "userAgent": ""
+                }
+            ]
+        },
+        {
+            "name": "Radio",
+            "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10547686_ico_g",
+            "stations": [
+                {
+                    "name": "Hit FM",
+                    "url": "http://hitfm.kissfmradio.cires21.com/hitfm.mp3",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10547696_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Los 40 principales",
+                    "url": "http://19993.live.streamtheworld.com/LOS40_SC",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10547811_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Cadena 100",
+                    "url": "http://cadena100-streamers-aac.flumotion.com/cope/cadena100.aac",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10548036_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Kiss FM",
+                    "url": "http://kissfm.kissfmradio.cires21.com/kissfm.mp3",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10548092_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Latino FM",
+                    "url": "http://185.23.192.118:8000/",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10548139_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Europa FM",
+                    "url": "http://icecast-streaming.nice264.com/europafmback",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10548185_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Loca FM Remember",
+                    "url": "http://5.39.66.128:8006/live",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10548229_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Rock FM",
+                    "url": "http://flucast-m02-03.flumotion.com/cope/rockfm.mp3",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10548321_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Máxima FM",
+                    "url": "http://19373.live.streamtheworld.com/MAXIMAFMAAC.aac",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10548353_ico_g",
+                    "userAgent": ""
+                }
+            ]
+        },
+        {
+            "name": "TDT",
+            "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10425475_ico_g",
+            "stations": [
+                {
+                    "name": "Telecinco HD",
+                    "url": "https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10425895_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Cuatro HD",
+                    "url": "https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10425922_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "La Sexta HD",
+                    "url": "https://livestartover.atresmedia.com/lasexta/master.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10425953_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "FDF HD",
+                    "url": "https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8?mx5.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10294681_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Nova HD",
+                    "url": "https://livestartover-i.akamaized.net/geonova/master.m3u8?mx5.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10294686_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Be Mad HD",
+                    "url": "https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8?mx5.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10294694_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Divinity HD",
+                    "url": "https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8?mx5.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10294706_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Paramount Network HD",
+                    "url": "https://paramount-live.flumotion.com/live/playlist.m3u8?mx5.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10294724_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Neox HD",
+                    "url": "https://livestartover.atresmedia.com/geoneox/bitrate_1.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10302084_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Mega HD",
+                    "url": "https://livestartover-i.akamaized.net/geomega/master.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10425975_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Boing HD",
+                    "url": "https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8?mx5.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10294736_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Teledeporte HD",
+                    "url": "http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10294745_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "La 1 HD",
+                    "url": "https://rtvelivestream.akamaized.net/la1_dvr.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10300549_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "La 2 HD",
+                    "url": "https://rtvelivestream.akamaized.net/la2_dvr.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10300561_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Energy HD",
+                    "url": "https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10300584_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "24H HD",
+                    "url": "https://rtvelivestream.akamaized.net/24h_dvr.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10300619_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Clan HD",
+                    "url": "https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10300723_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Apunt HD",
+                    "url": "https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10300741_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "La 8 Mediterraneo",
+                    "url": "https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0226/playlist.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10300752_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Atresseries HD",
+                    "url": "https://livestartover-i.akamaized.net/geoa3series/master.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10398354_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Real Madrid TV",
+                    "url": "https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10397096_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Betis TV",
+                    "url": "https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10397135_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Málaga TV",
+                    "url": "http://secure.todostreaming.es/live/101tv-web101tv.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10398430_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Andalucía TV",
+                    "url": "https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10341450_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Aragon TV",
+                    "url": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10398528_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Villarobledo TV",
+                    "url": "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10398551_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Antena 3 HD",
+                    "url": "https://livestartover-i.akamaized.net/antena3/master.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10428517_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Dmax",
+                    "url": "http://91.126.141.12:1935/live/discoverymax/playlist.m3u8?OPT",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10543140_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "TV3",
+                    "url": "https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist.m3u8?DVR",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10544367_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Life TV",
+                    "url": "http://media.profesionalhosting.com:1935/8439/8439/chunklist_w1267986625.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10545557_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Super 3",
+                    "url": "http://directes-tv-int.ccma.cat/int/ngrp:c33_web/chunklist_b1296000_DVR.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10547172_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "Media TV",
+                    "url": "http://media.profesionalhosting.com:1935/8441/8441/playlist.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10547314_ico_g",
+                    "userAgent": ""
+                }
+            ]
+        },
+        {
+            "name": "Adultos",
+            "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10697474_ico_g",
+            "stations": [
+                {
+                    "name": "Venus",
+                    "url": "http://coronaviruscontagiosilotocas.dharmaweb.ml/dharma/venus/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10697505_ico_g",
+                    "userAgent": "LuPlayer"
+                },
+                {
+                    "name": "Hustler TV",
+                    "url": "http://95.216.103.10/play/hustler/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10697565_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Dusk",
+                    "url": "http://95.216.103.10/play/dusk/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10698130_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "PlayBoy",
+                    "url": "http://95.216.103.10/play/playboy/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10755866_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Hardcore",
+                    "url": "http://live.redtraffic.xyz/hardcore.m3u8?fluxuslust.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10755955_ico_g",
+                    "userAgent": "roost.tv/9.8 (Linux;Android 9) ExoPlayerLib/2.8.4"
+                },
+                {
+                    "name": "HotGo",
+                    "url": "http://live.redtraffic.xyz/pov.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10853797_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "RedLight HD",
+                    "url": "http://95.216.103.10/play/dusk/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10853853_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Brazzers",
+                    "url": "http://coronaviruscontagiosilotocas.dharmaweb.ml/dharma/brazzers/index.m3u8   ",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10853893_ico_g",
+                    "userAgent": "LuPlayer"
+                }
+            ]
+        },
+        {
+            "name": "Movistar",
+            "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10593401_ico_g",
+            "stations": [
+                {
+                    "name": "M. Comedia",
+                    "url": "http://95.216.103.10/play/movistar_comedia/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10600954_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "M. Doc&amp;Roll",
+                    "url": "http://95.216.103.10/play/movistar_cinedocroll/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10601027_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "M. Accion",
+                    "url": "http://95.216.103.10/play/movistar_accion/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10601401_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "M. SeriesMania",
+                    "url": "http://95.216.103.10/play/movistar_seriesmania/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10601575_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "M. Series ",
+                    "url": "http://95.216.103.10/play/movistar_series/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10601655_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "M. Estrenos",
+                    "url": "http://95.216.103.10/play/movistar_estrenos/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10601689_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "M. Drama",
+                    "url": "http://95.216.103.10/play/movistar_drama/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10601726_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "M. #0",
+                    "url": "http://95.216.103.10/play/0/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10601812_ico_g",
+                    "userAgent": "Google Chrome/2.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "M. #vamos",
+                    "url": "http://95.216.103.10/play/vamos/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10601891_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "M. Hollywood ",
+                    "url": "http://95.216.103.10/play/hollywood/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10601977_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Caza y Pesca",
+                    "url": "http://95.216.103.10/play/caza_y_pesca/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10610426_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "N Geographic ",
+                    "url": "http://95.216.103.10/play/national_geographic_channel/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10610460_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "N geographic wild",
+                    "url": "http://95.216.103.10/play/national_geographic_wild/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10610477_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Viajar ",
+                    "url": "http://37.187.128.169:8000/live/iOS/toso/63.ts",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10610531_ico_g",
+                    "userAgent": "exoplayer_video"
+                },
+                {
+                    "name": "Axn",
+                    "url": "http://95.216.103.10/play/axn/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10610558_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Axn White",
+                    "url": "http://95.216.103.10/play/axn_white/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10610575_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Fox",
+                    "url": "http://95.216.103.10/play/fox/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10611308_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Fox Life ",
+                    "url": "http://95.216.103.10/play/fox_life/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10611359_ico_g",
+                    "userAgent": "Google Chrome/2.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "TNT",
+                    "url": "http://95.216.103.10/play/tnt/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10612812_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Calle 13",
+                    "url": "http://37.187.128.169:8000/live/iOS/toso/10.ts",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10612878_ico_g",
+                    "userAgent": "ExoPlayer2/22 (Linux;Android 9) ExoPlayerLib/2.10.6"
+                },
+                {
+                    "name": "Canal Cocina",
+                    "url": "http://95.216.103.10/play/canal_cocina/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10612980_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Somos",
+                    "url": "http://95.216.103.10/play/somos/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10614887_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Syfy",
+                    "url": "http://95.216.103.10/play/syfy/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10615144_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Amc",
+                    "url": "http://95.216.103.10/play/amc/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10624956_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Crimen+investigación",
+                    "url": "http://95.216.103.10/play/crimen_investigacion/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10629778_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Comedy central",
+                    "url": "http://95.216.103.10/play/comedy_central/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10629829_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Tcm",
+                    "url": "http://95.216.103.10/play/tcm/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10633340_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "M. Cine ñ",
+                    "url": "http://95.216.103.10/play/movistar_cine_espanol/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10633865_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Historia",
+                    "url": "http://95.216.103.10/play/historia/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10667688_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Blaze",
+                    "url": "http://95.216.103.10/play/blaze/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10671042_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Cosmopolitan",
+                    "url": "http://95.216.103.10/play/cosmo/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10675440_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Odisea",
+                    "url": "http://95.216.103.10/play/odisea/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10698578_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Iberalia",
+                    "url": "http://95.216.103.10/play/iberalia/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10729406_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Toros",
+                    "url": "http://95.216.103.10/play/toros_tv/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10729466_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "XTRM",
+                    "url": "http://95.216.103.10/play/xtrm/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10837587_ico_g",
+                    "userAgent": "Google Chrome/3.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Discovery Channel",
+                    "url": "http://coronaviruscontagiosilotocas.dharmaweb.ml/dharma/discovery_channel/index.m3u",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10851062_ico_g",
+                    "userAgent": "LuPlayer"
+                },
+                {
+                    "name": "Dark",
+                    "url": "http://95.216.103.10/play/dark/index.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10872848_ico_g",
+                    "userAgent": "Google Chrome/2.0.0 (Linux;Android 9) ExoPlayerLib/2.6.1"
+                },
+                {
+                    "name": "Disney +",
+                    "url": "http://185.246.211.77:25461/live/9595991ZXi72215/929527122251712/26214.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10876788_ico_g",
+                    "userAgent": "exoplayer_video"
+                }
+            ]
+        },
+        {
+            "name": "HBO",
+            "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10735895_ico_g",
+            "stations": [
+                {
+                    "name": "HBO",
+                    "url": "https://edge3-hr.cvattv.com.ar/live/c3eds/HBOHD/verimatrix_rotating_FTA/HBOHD-video=3900000.m3u8",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10735969_ico_g",
+                    "userAgent": ""
+                },
+                {
+                    "name": "HBO Family",
+                    "url": "http://51.178.65.221:25465/live/espala/yEwACTX6PQ/58.ts",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10736071_ico_g",
+                    "userAgent": "exoplayer_video"
+                },
+                {
+                    "name": "HBO Signature",
+                    "url": "http://51.178.65.221:25465/live/espala/yEwACTX6PQ/61.ts",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10736107_ico_g",
+                    "userAgent": "exoplayer_video"
+                },
+                {
+                    "name": "HBO Xtreme",
+                    "url": "http://51.178.65.221:25465/live/espala/yEwACTX6PQ/64.ts",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10736753_ico_g",
+                    "userAgent": "exoplayer_video"
+                },
+                {
+                    "name": "HBO Plus",
+                    "url": "http://51.178.65.221:25465/live/espala/yEwACTX6PQ/60.ts",
+                    "image": "https://raw.githubusercontent.com/CabraMan/Logos/master/Telefina/img_s10747648_ico_g",
+                    "userAgent": "ant.hd/2.2 (Linux;Android 8.0.0) ExoPlayerLib/2.8.4"
+                }
+            ]
+        }
+    ]
+}
